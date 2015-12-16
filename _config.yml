@@ -1,0 +1,28 @@
+name: Djatiguiya
+favicon: null
+layout_spectrum: 0.1886983197182417
+typography_spectrum: 0.050045181065797806
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.3160278971772641
+  lightness: 0.734757462516427
+  saturation: 0.29308238066732883
+  rhythmicContrast: 0.5746072561014444
+purpose: []
